@@ -79,7 +79,7 @@ GitHub
 
 ## メンバー
 大場(講師): [@MHTcode_Sally](https://twitter.com/MHTcode_Sally])<br>
-#Flutter #Swift
+#flutter #swift
 
 千葉(講師): [@MHTcode_chibird](https://twitter.com/MHTcode_chibird)<br>
 #RubyonRails #vuejs #javascript #AWS #Firebase
@@ -94,10 +94,10 @@ GitHub
 #flutter
 
 山崎: [@MHTcode_tom](https://twitter.com/tomsan96)<br>
-#Swift
+#swift
 
 清川: [@MHTcode_namupyi](https://twitter.com/kiyo27750074)<br>
-#Swift
+#swift
 
 
 ## お問い合わせ先
