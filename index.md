@@ -78,25 +78,26 @@ GitHub
 なし
 
 ## メンバー
-大場(講師): [@MHTcode_Sally](https://twitter.com/MHTcode_Sally])
+大場(講師): [@MHTcode_Sally](https://twitter.com/MHTcode_Sally])<br>
 #Flutter #Swift
 
-千葉(講師): [@MHTcode_chibird](https://twitter.com/MHTcode_chibird)
+千葉(講師): [@MHTcode_chibird](https://twitter.com/MHTcode_chibird)<br>
 #RubyonRails #vuejs #javascript #AWS #Firebase
 
-図師(補佐): [@MHTcode_Rebecca](https://twitter.com/MHTcode_Rebecca)
+図師(補佐): [@MHTcode_Rebecca](https://twitter.com/MHTcode_Rebecca)<br>
 #swift #kotlin #flutter #Dart #AWS #firebase #GCP
 
-瀧: [@MHTcode_tarou](https://twitter.com/MHTcode_tarou)
+瀧: [@MHTcode_tarou](https://twitter.com/MHTcode_tarou)<br>
 #flutter
 
-本間: [@MHTcode_andy](https://twitter.com/MHTcode_andy)
+本間: [@MHTcode_andy](https://twitter.com/MHTcode_andy)<br>
 #flutter
 
-山崎: [@MHTcode_tom](https://twitter.com/tomsan96)
+山崎: [@MHTcode_tom](https://twitter.com/tomsan96)<br>
+#Swift
 
-清川: [@MHTcode_namupyi](https://twitter.com/kiyo27750074)
-
+清川: [@MHTcode_namupyi](https://twitter.com/kiyo27750074)<br>
+#Swift
 
 
 ## お問い合わせ先
