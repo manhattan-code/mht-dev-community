@@ -98,7 +98,6 @@ GitHub
 
 
 ## お問い合わせ先
-以下、GoogleFormにてお問い合わせをお願いいたします。<br>
-https://docs.google.com/forms/d/1aWdLupxd-NZRGDG_DNOLEIFJTdHrO9KxUE0MAY7Lvts/prefill<br>
+以下 [GoogleForm](https://docs.google.com/forms/d/1aWdLupxd-NZRGDG_DNOLEIFJTdHrO9KxUE0MAY7Lvts/prefill)、にてお問い合わせをお願いいたします。<br>
 その他不明点がありましたら、上記メンバーのtwitter DMにてご連絡ください。
 
