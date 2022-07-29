@@ -78,9 +78,6 @@ GitHub
 なし
 
 ## メンバー
-大場(講師): [@MHTcode_Sally](https://twitter.com/MHTcode_Sally])<br>
-#flutter #swift
-
 千葉(講師): [@MHTcode_chibird](https://twitter.com/MHTcode_chibird)<br>
 #RubyonRails #vuejs #javascript #AWS #Firebase
 
@@ -101,6 +98,7 @@ GitHub
 
 
 ## お問い合わせ先
-以下コミュニティ担当者のTwitterDMにてご連絡お待ちしております。
+以下、GoogleFormにてお問い合わせをお願いいたします。<br>
+https://docs.google.com/forms/d/1aWdLupxd-NZRGDG_DNOLEIFJTdHrO9KxUE0MAY7Lvts/prefill<br>
+その他不明点がありましたら、上記メンバーのtwitter DMにてご連絡ください。
 
-[@MHTcode_Sally](https://twitter.com/MHTcode_Sally)
