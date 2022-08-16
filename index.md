@@ -5,7 +5,7 @@
 
 ## マンハッタンコードとは？
 株式会社マンハッタンコードは、フロントエンドの会社です。<br>
-「フロントエンド領域の探究と実現を推進して、世の中で愛される商品やサービスを増やして人々を豊かにする」をミッションに商品・サービスが愛されるためのフロントエンドを研究開発しています。<br>
+「世の中で愛される商品やサービスを増やして人々を豊かにする」をミッションに商品・サービスが愛されるためのフロントエンドを研究開発しています。<br>
 フロントエンドって何？興味がある！という方、QTLとは別に毎週土曜日弊社オフィスにて frontend squareというイベントを開催しています！<br>
 イベント予約: [connpass](https://mht-code.connpass.com/)<br>
 イベントレポート: [note](https://note.com/mhtcode/m/m6f5c25a78dd6)<br>
@@ -120,6 +120,6 @@
 
 
 ## 応募先
-以下 [GoogleForm](https://docs.google.com/forms/d/1aWdLupxd-NZRGDG_DNOLEIFJTdHrO9KxUE0MAY7Lvts/prefill)、にてお問い合わせをお願いいたします。<br>
+以下 [GoogleForm](https://docs.google.com/forms/d/1aWdLupxd-NZRGDG_DNOLEIFJTdHrO9KxUE0MAY7Lvts/prefill)からご応募お願いいたします。<br>
 その他不明点がありましたら、上記メンバーのtwitter DMにてご連絡ください。
 
