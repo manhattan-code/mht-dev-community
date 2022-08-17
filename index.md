@@ -120,7 +120,7 @@
 #swift #flutter #firebase
 
 
-## 応募先
-以下 [GoogleForm](https://docs.google.com/forms/d/1aWdLupxd-NZRGDG_DNOLEIFJTdHrO9KxUE0MAY7Lvts/prefill)からご応募お願いいたします。<br>
+## 応募方法
+[GoogleForm](https://docs.google.com/forms/d/1aWdLupxd-NZRGDG_DNOLEIFJTdHrO9KxUE0MAY7Lvts/prefill)からご応募お願いいたします。<br>
 その他不明点がありましたら、上記メンバーのtwitter DMにてご連絡ください。
 
