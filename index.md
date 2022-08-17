@@ -99,25 +99,25 @@
 
 ## 運営メンバー
 千葉: [@MHTcode_chibird](https://twitter.com/MHTcode_chibird)<br>
-#flutter #RubyonRails #vuejs #javascript #AWS #Firebase
+#Flutter #RubyonRails #vuejs #javascript #AWS #Firebase
 
 図師: [@MHTcode_JJ](https://twitter.com/MHTcode_JJ)<br>
-#swift #kotlin #flutter #Dart #AWS #firebase #GCP
+#Swift #kotlin #Flutter #Dart #AWS #firebase #GCP #PHP
 
 瀧: [@MHTcode_tarou](https://twitter.com/MHTcode_tarou)<br>
-#flutter #swift #vue.js
+#Flutter #Swift #vue.js
 
 本間: [@MHTcode_andy](https://twitter.com/MHTcode_andy)<br>
-#flutter #java
+#Flutter #java
 
 山崎: [@MHTcode_tom](https://twitter.com/tomsan96)<br>
-#swift #java #flutter #sql
+#Swift #java #Flutter #sql
 
 清川: [@MHTcode_namupi](https://twitter.com/MHTcode_namupi)<br>
-#swift #flutter #vue.js
+#Swift #Flutter #vue.js
 
 村本: [@MHTcode_bakupu](https://twitter.com/MHTcode_bakupu)<br>
-#swift #flutter #firebase
+#Swift #Flutter #Dart #firebase #PHP
 
 
 ## 応募方法
