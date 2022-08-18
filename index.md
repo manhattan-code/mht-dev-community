@@ -37,7 +37,8 @@
 2. 参加される方は、Slackとdiscordの招待をします<br>
 3. キックオフ実施<br>
 4. 毎週水曜日 19:30-20:30 エンジニアコミュニティ実施<br>
-　　課題は個人のペースで進めてください
+
+- 課題は個人のペースで進めてください
 <br>
 
 ## 内容
@@ -98,28 +99,28 @@
 
 ## 運営メンバー
 千葉: [@MHTcode_chibird](https://twitter.com/MHTcode_chibird)<br>
-#flutter #RubyonRails #vuejs #javascript #AWS #Firebase
+#Flutter #RubyonRails #Vue.js #JavaScript #AWS #Firebase
 
 図師: [@MHTcode_JJ](https://twitter.com/MHTcode_JJ)<br>
-#swift #kotlin #flutter #Dart #AWS #firebase #GCP
+#Swift #Kotlin #Flutter #Dart #AWS #Firebase #GCP #PHP
 
 瀧: [@MHTcode_tarou](https://twitter.com/MHTcode_tarou)<br>
-#flutter #swift #vue.js
+#Flutter #Swift #Vue.js
 
 本間: [@MHTcode_andy](https://twitter.com/MHTcode_andy)<br>
-#flutter #java
+#Flutter #Firebase #java
 
 山崎: [@MHTcode_tom](https://twitter.com/tomsan96)<br>
-#swift #java #flutter #sql
+#Swift #Java #Flutter #SQL
 
 清川: [@MHTcode_namupi](https://twitter.com/MHTcode_namupi)<br>
-#swift #flutter #vue.js
+#Swift #Flutter #Vue.js
 
 村本: [@MHTcode_bakupu](https://twitter.com/MHTcode_bakupu)<br>
-#swift #flutter #firebase
+#Swift #Flutter #Dart #Firebase #PHP
 
 
-## 応募先
-以下 [GoogleForm](https://docs.google.com/forms/d/1aWdLupxd-NZRGDG_DNOLEIFJTdHrO9KxUE0MAY7Lvts/prefill)からご応募お願いいたします。<br>
+## 応募方法
+[GoogleForm](https://docs.google.com/forms/d/1aWdLupxd-NZRGDG_DNOLEIFJTdHrO9KxUE0MAY7Lvts/prefill)からご応募お願いいたします。<br>
 その他不明点がありましたら、上記メンバーのtwitter DMにてご連絡ください。
 
